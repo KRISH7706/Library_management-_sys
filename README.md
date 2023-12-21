@@ -6,6 +6,7 @@ ER diagram and schema, including a description of the relationships between the 
 fig - class Diagram
 
 ![image](https://github.com/KRISH7706/Library_management-_sys/assets/92157939/b4b8c82c-9e9f-4ad9-b99d-7bbebf920437)
+
 fig- E-R Diagram 
 
 ----------
